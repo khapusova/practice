@@ -1,0 +1,16 @@
+#input data
+name=input('Enter your name:')
+surname=input('Enter your surname:')
+numb=input('Enter your phone number:')
+street=input('Enter your street:')
+house=input('Enter your house number:')
+app=input('Enter your appartment number:')
+city=input('Enter your city:')
+index=input('Enter your index:')
+count=input('Enter your country:')
+#output data
+print(name,surname)
+print(numb)
+print(street,house, ', ap.', app, ',', city)
+print(index)
+print(count)
